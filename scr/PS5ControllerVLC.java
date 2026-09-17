@@ -48,7 +48,7 @@ public class PS5ControllerVLC {
 
     // ---------- Tunables ----------
     private static final int  POLL_INTERVAL_MS = 10;
-    private static final long REPEAT_DELAY_MS  = 120;
+    private static final long REPEAT_DELAY_MS  = 150;
 
     private static final String NATIVES_DIR = "lib/natives";
     private static final String NATIVES_JAR = "lib/jinput-platform-2.0.9-natives-all.jar";
